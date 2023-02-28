@@ -16,6 +16,8 @@ const navigation = [
   { name: 'Reports', href: '#', current: false },
   { name: 'About', href: '#', current: false },
   { name: 'Contact', href: '#', current: false },
+  { name: 'hello', href: '#', current: false },
+  { name: 'test', href: '#', current: false },
 ];
 const userNavigation = [
   { name: 'Your Profile', href: '#' },
